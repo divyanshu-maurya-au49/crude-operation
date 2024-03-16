@@ -114,8 +114,8 @@ function Crud() {
   };
 
   return (
-    <div className="container">
-      <h1>Crud operation</h1>
+    <div className="container"> 
+      <h1>Crudd operation</h1>
       <div className="row">
         <div className="col">
           <form onSubmit={handelSubmit}>
